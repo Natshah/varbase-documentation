@@ -52,7 +52,7 @@ bash ./create-new-vartheme.sh "THEME_NAME" "ltr"
 
 ## List of steps to create new vartheme subtheme are listed in this link bash file.
 
-[https://github.com/Vardot/varbase/blob/8.x-4.x/scripts/create-new-vartheme.sh](https://github.com/Vardot/varbase/blob/8.x-4.x/scripts/create-new-vartheme.sh)
+[https://github.com/Vardot/varbase/blob/8.x-6.x/scripts/create-new-vartheme.sh](https://github.com/Vardot/varbase/blob/8.x-6.x/scripts/create-new-vartheme.sh)
 
 ## If you installed Varbase from drupal.org directly or by a drush dl varbase-8 you could follow the following steps:
 
@@ -86,7 +86,7 @@ bash ./create-new-vartheme.sh "THEME_NAME" "ltr"
 * 16.3. Extract the bootstrap library.
 * 16.4. Delete the archived bootstrap library.
 
-All command for steps are in this [link](https://github.com/Vardot/varbase/blob/8.x-4.x/scripts/create-new-vartheme.sh)
+All command for steps are in this [link](https://github.com/Vardot/varbase/blob/8.x-6.x/scripts/create-new-vartheme.sh)
 
-[https://github.com/Vardot/varbase/blob/8.x-4.x/scripts/create-new-vartheme.sh](https://github.com/Vardot/varbase/blob/8.x-4.x/scripts/create-new-vartheme.sh)
+[https://github.com/Vardot/varbase/blob/8.x-6.x/scripts/create-new-vartheme.sh](https://github.com/Vardot/varbase/blob/8.x-6.x/scripts/create-new-vartheme.sh)
 
